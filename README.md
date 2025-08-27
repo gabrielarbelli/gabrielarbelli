@@ -41,6 +41,7 @@
 ## 🌐 Onde me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-arbelli/)  
 - 📧 **gabriel_arbelli@hotmail.com**  
+- 📞 [+55 (11) 97322-8331](https://wa.me/5511973228331)
 
 ---
 ✨ Sempre aberto a colaborações e novos desafios!
