@@ -2,7 +2,18 @@
 
 💻 Desenvolvedor **Front-End** com mais de 10 anos de experência, focado em **Angular | React | TypeScript**  
 🚀 Apaixonado por criar soluções escaláveis e experiências web de alta performance  
-📚 Atualmente estudando: **React Native**, **Next.js** e **Inglês (nível avançado, fluente)**
+📚 Atualmente estudando: **React Native** e **Next.js**
+
+---
+
+## 🎓 Formação
+
+- **Pós-Graduação MBA em Desenvolvimento Front End** – IGTI, 2021  
+- **Graduação em Ciências da Computação** – FMU, 2017  
+
+### 🌎 Idiomas
+- **Português:** Nativo  
+- **Inglês:** Fluente (cursando)
 
 ---
 
