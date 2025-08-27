@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Gabriel Arbelli  
 
 💻 Desenvolvedor **Front-End** com mais de 10 anos de experência, focado em **Angular | React | TypeScript**  
-🎓 **Pós-Graduação MBA em Desenvolvimento Front End (2021)** e **Bacharel em Ciências da Computação (2017)**  
 🚀 Apaixonado por criar soluções escaláveis e experiências web de alta performance  
+🎓 **Pós-Graduação MBA em Desenvolvimento Front End (2021)** e **Bacharel em Ciências da Computação (2017)**  
 🌎 **Português:** Nativo e **Inglês:** Fluente (cursando)  
 📚 Atualmente estudando: **React Native** e **Next.js**  
 
