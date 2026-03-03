@@ -30,9 +30,10 @@
 ## 📊 Estatísticas do GitHub  
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=gabrielarbelli&theme=radical" />
   <a href="https://github.com/gabrielarbelli">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielarbelli&show_icons=true&theme=radical&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielarbelli&layout=compact&theme=radical&count_private=true0"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielarbelli&show_icons=true&theme=radical"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielarbelli&layout=compact&theme=radical"/>
   </a>
 </div>
 
