@@ -31,8 +31,8 @@
 
 <div align="center">
   <a href="https://github.com/gabrielarbelli">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielarbelli&show_icons=true&theme=radical&cache_seconds=1800"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielarbelli&layout=compact&theme=radical&cache_seconds=1800"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielarbelli&show_icons=true&theme=radical&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielarbelli&layout=compact&theme=radical&count_private=true0"/>
   </a>
 </div>
 
